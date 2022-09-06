@@ -1,3 +1,5 @@
+# Plase see this repo [paulober/Pico-W-Go](https://github.com/paulober/Pico-W-Go)
+
 #  Pico-Go VS Code Extension 
 
 Pico-Go provides code auto-completion and allows  you to communicate with your Raspberry Pi Pico board using the built-in REPL console. Run a single file on your board, sync your entire project or directly type and execute commands.
